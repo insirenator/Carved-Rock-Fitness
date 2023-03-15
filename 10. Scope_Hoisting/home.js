@@ -49,12 +49,9 @@ function showUserName() {
 // Strict Mode 
 'use strict'
 
-let person = {
-	name: "shakeeb",
-	age: 22,
-};
+const productId = 149;
 
-console.log(person)
+console.log(productId);
 
 /*
 	using the strict mode makes it necessary for the 
